@@ -1,7 +1,7 @@
 # Eye-closure-detection-EAR
 Eye closure detection based on EAR
 
-> [基于人眼纵横比计算的人眼闭合检测算法](https://jasoncaocjx.github.io/2020/04/14/%E5%9F%BA%E4%BA%8E%E4%BA%BA%E7%9C%BC%E7%BA%B5%E6%A8%AA%E6%AF%94%E8%AE%A1%E7%AE%97%E7%9A%84%E4%BA%BA%E7%9C%BC%E9%97%AD%E5%90%88%E6%A3%80%E6%B5%8B%E7%AE%97%E6%B3%95/)
+> 基于人眼纵横比计算的人眼闭合检测算法
 
 # 原理
 PDlib是基于现代C++的通用多平台框架，在机器学习和图像处理领域提供了一系列相关功能
@@ -39,3 +39,5 @@ Tereza Soukupová于2016年发表的一篇名为Eye blink detection using facial
 
 # 源代码
 本项目的[源代码](https://github.com/JasonCaoCJX/Eye-closure-detection-EAR)已完全公开
+
+图片显示不出来可以去[我的博客](https://jasoncaocjx.github.io/2020/04/14/%E5%9F%BA%E4%BA%8E%E4%BA%BA%E7%9C%BC%E7%BA%B5%E6%A8%AA%E6%AF%94%E8%AE%A1%E7%AE%97%E7%9A%84%E4%BA%BA%E7%9C%BC%E9%97%AD%E5%90%88%E6%A3%80%E6%B5%8B%E7%AE%97%E6%B3%95/)查看详情
