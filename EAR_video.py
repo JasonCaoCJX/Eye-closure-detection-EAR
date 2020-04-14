@@ -25,7 +25,7 @@ def eye_detection(threshold, sustain):
 
     # 加载人脸68点数据模型
     detector = dlib.get_frontal_face_detector()
-    predictor = dlib.shape_predictor('../shape_predictor_68_face_landmarks.dat')
+    predictor = dlib.shape_predictor('shape_predictor_68_face_landmarks.dat')
 
     # 获取人眼的坐标
     (lStart, lEnd) = face_utils.FACIAL_LANDMARKS_IDXS['left_eye']
@@ -87,7 +87,7 @@ def eye_detection(threshold, sustain):
 
 
 if __name__ == '__main__':
-    eye_detection(0.3, 50)
+    eye_detection(0.2, 50)
 
 
 
